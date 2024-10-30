@@ -1,3 +1,5 @@
 DOC
 Edit
 Edit2
+Edit3 in file1.txt
+Edit in User
